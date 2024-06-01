@@ -12,7 +12,7 @@ Explain how your project works
 it adds the data to its previous stored data memory.
 
 ## How to test
-
+Explain how to use your project
 user enters the month in binary form in m0-m3 pins and value of stock in v0-v1 and gives the clock signal.
 
 ## External hardware
