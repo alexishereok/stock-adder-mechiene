@@ -8,7 +8,7 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
+Explain how your project works
 it adds the data to its previous stored data memory.
 
 ## How to test
